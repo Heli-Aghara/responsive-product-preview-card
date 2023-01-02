@@ -27,6 +27,7 @@ This is a solution to the [Product-preview card  challenge on Frontend Mentor](h
 
 ### Live site link:
 
+[product-previw-card](https://eloquent-elf-886510.netlify.app/)
 
 ## Languages used:
 1. HTML
