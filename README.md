@@ -27,7 +27,7 @@ This is a solution to the [Product-preview card  challenge on Frontend Mentor](h
 
 ### Live site link:
 
-[product-previw-card](https://app.netlify.com/sites/product-preview12)
+[product-previw-card](https://product-preview12.netlify.app/)
 
 ## Languages used:
 1. HTML
